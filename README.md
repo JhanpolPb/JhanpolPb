@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  💻 Full Stack Developer | Colombia 🇨🇴 <br/>
+  💻 Full Stack Developer | Colombia 📍 <br/>
   🚀 React • Next.js • Node.js • Express • .NET • Databases
 </p>
 
