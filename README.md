@@ -18,6 +18,7 @@ I enjoy turning ideas into real products using modern web technologies.
 
 * 🌱 Currently improving backend architecture and system design
 * 💻 Focused on React, Next.js and Node.js ecosystems
+*  ☁️ Learning AWS Serverless (Lambda, API Gateway, DynamoDB)
 * ⚙️ Experience building REST APIs and full CRUD systems
 * 🎯 Goal: Work as a Software Engineer in a high-impact tech company
 
@@ -40,7 +41,7 @@ I enjoy turning ideas into real products using modern web technologies.
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,dynamodb, aws" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,aws" />
 </p>
 
 ### Tools & DevOps
