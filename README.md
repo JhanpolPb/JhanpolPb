@@ -40,7 +40,7 @@ I enjoy turning ideas into real products using modern web technologies.
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,aws" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,dynamodb, aws" />
 </p>
 
 ### Tools & DevOps
