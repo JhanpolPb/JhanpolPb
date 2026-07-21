@@ -40,13 +40,13 @@ I enjoy turning ideas into real products using modern web technologies.
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,azure" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,aws" />
 </p>
 
 ### Tools & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,azure" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,aws" />
 </p>
 
 ---
