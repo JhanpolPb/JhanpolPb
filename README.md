@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jhanpol Parra
+# 👋 Hi, I'm Jhanpol Parra Barreto
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:6610f2&height=200&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=ffffff" />
