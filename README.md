@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 About Me
+<img src="https://img.shields.io/badge/ABOUT%20ME-e52521?style=for-the-badge" height="40" alt="ABOUT ME" />
 
 I'm a Full Stack Developer focused on building scalable web applications and clean backend architectures.
 I enjoy turning ideas into real products using modern web technologies.
@@ -21,7 +21,7 @@ I enjoy turning ideas into real products using modern web technologies.
 
 ---
 
-## 🛠 Tech Stack
+<img src="https://img.shields.io/badge/TECH%20STACK-e52521?style=for-the-badge" height="40" alt="TECH STACK" />
 
 ### Frontend
 
@@ -60,7 +60,7 @@ I enjoy turning ideas into real products using modern web technologies.
 
 ---
 
-# 🏗️ Architecture & Design Patterns
+<img src="https://img.shields.io/badge/ARCHITECTURE%20%26%20PATTERNS-e52521?style=for-the-badge" height="40" alt="ARCHITECTURE & PATTERNS" />
 
 * 🧩 MVC (Model - View - Controller) for backend structure
 * 🧱 Layered Architecture (N-tier) for scalable applications
@@ -69,15 +69,25 @@ I enjoy turning ideas into real products using modern web technologies.
 
 ---
 
-# 📫 Connect with Me
+<img src="https://img.shields.io/badge/CONTRIBUTIONS-e52521?style=for-the-badge" height="40" alt="CONTRIBUTIONS" />
 
-💼 LinkedIn: https://www.linkedin.com/in/jhanpolpb/ <br/>
-🌐 Portfolio: https://jhanpolpb.netlify.app/ <br/>
-📧 Email: jhanpolpb840@gmail.com
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JhanpolPb/JhanpolPb/output/snake-red.svg" alt="Snake eating my contributions" />
+</p>
 
 ---
 
-## 💬 Quote
+<img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-e52521?style=for-the-badge" height="40" alt="CONNECT WITH ME" />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jhanpolpb/"><img src="https://img.shields.io/badge/in-LinkedIn-e52521?style=for-the-badge&labelColor=7a0c0c" /></a>
+  <a href="https://jhanpolpb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-e52521?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="mailto:jhanpolpb840@gmail.com"><img src="https://img.shields.io/badge/Email-e52521?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<img src="https://img.shields.io/badge/QUOTE-e52521?style=for-the-badge" height="40" alt="QUOTE" />
 
 <p align="center">
   <i>"Code. Learn. Build. Repeat."</i>
