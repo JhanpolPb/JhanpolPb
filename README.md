@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jhanpol Parra Barreto
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:6610f2&height=200&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Full%20Stack%20Developer&fontSize=48&fontColor=3b82f6&fontAlignY=40&desc=React%20%E2%80%A2%20Node.js%20%E2%80%A2%20.NET%20%E2%80%A2%20AWS&descSize=18&descAlignY=72&descColor=8b949e&animation=fadeIn" />
 </p>
 
 <p align="center">
