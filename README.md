@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d6efd,100:6610f2&height=220&section=header&text=Jhanpol%20Parra%20Barreto&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cloud%20%26%20Deploy&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:6610f2&height=220&section=header&text=Jhanpol%20Parra%20Barreto&fontSize=42&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -12,7 +12,6 @@
   <a href="https://jhanpolpb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" /></a>
   <a href="https://www.linkedin.com/in/jhanpolpb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jhanpolpb840@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=JhanpolPb&style=for-the-badge&color=6610f2&label=PROFILE+VIEWS" />
 </p>
 
 ---
