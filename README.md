@@ -80,9 +80,9 @@ I enjoy turning ideas into real products using modern web technologies.
 <img src="assets/titles/connect.svg" alt="CONNECT WITH ME" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jhanpolpb/"><img src="https://img.shields.io/badge/in-LinkedIn-e52521?style=for-the-badge&labelColor=7a0c0c" /></a>
-  <a href="https://jhanpolpb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-e52521?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="mailto:jhanpolpb840@gmail.com"><img src="https://img.shields.io/badge/Email-e52521?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jhanpolpb/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://jhanpolpb.netlify.app/"><img src="https://skillicons.dev/icons?i=netlify" height="48" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="mailto:jhanpolpb840@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email" /></a>
 </p>
 
 ---
