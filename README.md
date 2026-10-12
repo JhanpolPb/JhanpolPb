@@ -90,7 +90,7 @@ I enjoy turning ideas into real products using modern web technologies.
 <img src="assets/titles/quote.svg" alt="QUOTE" />
 
 <p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
+  <img src="assets/quote.svg" width="100%" alt="Code. Learn. Build. Repeat. / Every bug is just another boss fight. / Ship it, learn from it, level up." />
 </p>
 
 ---
