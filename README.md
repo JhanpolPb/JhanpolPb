@@ -4,11 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Full%20Stack%20Developer&fontSize=48&fontColor=3b82f6&fontAlignY=40&desc=React%20%E2%80%A2%20Node.js%20%E2%80%A2%20.NET%20%E2%80%A2%20AWS&descSize=18&descAlignY=72&descColor=8b949e&animation=fadeIn" />
 </p>
 
-<p align="center">
-  💻 Full Stack Developer | Colombia 📍 <br/>
-  🚀 React • Next.js • Node.js • Express • .NET • Databases • AWS ☁️
-</p>
-
 ---
 
 ## 🧠 About Me
